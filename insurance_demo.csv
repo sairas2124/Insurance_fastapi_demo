@@ -1,0 +1,101 @@
+age,weight,height,income,smoker,city,occupation,insurance_premium_category
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+18,55,1.6,12000,No,Kathmandu,Student,Low
+19,62,1.72,15000,No,Pokhara,Student,Low
+20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
+21,68,1.7,22000,No,Lalitpur,Intern,Low
+22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
+23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
+24,90,1.82,40000,Yes,Kathmandu,Engineer,High
+25,85,1.8,42000,No,Butwal,Software Developer,Medium
+26,60,1.65,25000,No,Pokhara,Designer,Low
+27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
