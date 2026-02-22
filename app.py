@@ -6,9 +6,6 @@ import pickle
 import pandas as pd
 
 
-# ----------------------------
-# Load ML model safely
-# ----------------------------
 try:
     with open("model.pkl", "rb") as f:
         model = pickle.load(f)
@@ -21,24 +18,19 @@ except Exception as e:
 app = FastAPI(title="Insurance Premium Category Predictor")
 
 
-# ----------------------------
-# City tiers
-# ----------------------------
+
 TIER_1_CITIES = ["Kathmandu", "Pokhara"]
 TIER_2_CITIES = ["Butwal", "Lalitpur", "Biratnagar"]
 
 
-# ----------------------------
-# Request Schema
-# ----------------------------
 class UserInput(BaseModel):
     age: Annotated[int, Field(gt=0, lt=120, description="Age", examples=[22])]
     weight: Annotated[float, Field(gt=0, description="Weight in kg", examples=[60.0])]
     height: Annotated[float, Field(gt=0, description="Height in meters", examples=[1.65])]
     income: Annotated[float, Field(gt=0, description="Annual income", examples=[50000.0])]
 
-    # We'll keep it bool but allow inputs like "Yes"/"No"
-    smoker: Annotated[bool, Field(description="Smoker status", examples=[False])]
+   
+    smoker: Annotated[bool, Field(description="Smoker status", examples=["Yes", "No"])]
 
     city: Annotated[str, Field(description="City of residence", examples=["Kathmandu"])]
 
@@ -66,11 +58,11 @@ class UserInput(BaseModel):
     @property
     def lifestyle_risk(self) -> str:
         if self.smoker and self.bmi > 30:
-            return "high"
+            return "High"
         elif self.smoker or self.bmi > 27:
-            return "medium"
+            return "Medium"
         else:
-            return "low"
+            return "Low"
 
     @property
     def age_group(self) -> str:
@@ -93,13 +85,8 @@ class UserInput(BaseModel):
             return 3
 
 
-# ----------------------------
-# Prediction Endpoint
-# ----------------------------
-@app.post("/predict")
 def predict_risk(user_input: UserInput):
-    # IMPORTANT:
-    # Your model must have been trained using these SAME feature names.
+   
     input_df = pd.DataFrame([{
         "age": user_input.age,
         "weight": user_input.weight,
