@@ -11,8 +11,8 @@ age = st.number_input("Age", min_value=1, max_value=119, value=30)
 weight = st.number_input("Weight (kg)", min_value=1.0, value=65.0)
 height = st.number_input("Height (m)", min_value=0.5, max_value=2.5, value=1.7)
 income = st.number_input("Annual Income (LPA)", min_value=0.1, value=10.0)
-smoker = st.selectbox("Are you a smoker?", options=[True, False])
-city = st.text_input("City", value="Mumbai")
+smoker = st.selectbox("Are you a smoker?", options=["Yes", "No"])
+city = st.text_input("City", value="Kathmandu")
 occupation = st.selectbox(
     "Occupation",
     [   "Student",
