@@ -66,9 +66,9 @@ class UserInput(BaseModel):
 
     @property
     def city_tier(self) -> int:
-        if self.city in TIER_1_CITIES:
+        if self.city in tier_1_cities:
             return 1
-        elif self.city in TIER_2_CITIES:
+        elif self.city in tier_2_cities:
             return 2
         else:
             return 3
