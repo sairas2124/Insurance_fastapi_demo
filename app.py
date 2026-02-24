@@ -7,8 +7,10 @@ from fastapi.responses import JSONResponse
 
 app = FastAPI(title="Insurance Premium Category Predictor")
 
-TIER_1_CITIES = ["Kathmandu", "Pokhara"]
-TIER_2_CITIES = ["Butwal", "Lalitpur", "Biratnagar"]
+
+tier_1_cities = ["Kathmandu","Pokhara","lalitpur","Bharatpur"]
+tier_2_cities = [
+    "Butwal","Tulsipur","Janakpur","Biratnagar","Dharan","Hetauda","Bhairahawa","Dhangadhi","Itahari","Gorkha","Nepalgunj"]
 
 # ---- Load model ----
 try:
