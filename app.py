@@ -1,55 +1,41 @@
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import JSONResponse
-from pydantic import BaseModel, Field, field_validator
-from typing import Annotated, Literal
-import pickle
+from pydantic import BaseModel, Field
+from typing import Literal
 import pandas as pd
-
-
-try:
-    with open("model.pkl", "rb") as f:
-        model = pickle.load(f)
-except FileNotFoundError:
-    raise RuntimeError("model.pkl not found. Put model.pkl in the same folder as this file.")
-except Exception as e:
-    raise RuntimeError(f"Failed to load model.pkl: {e}")
-
+import pickle
+from fastapi.responses import JSONResponse
 
 app = FastAPI(title="Insurance Premium Category Predictor")
-
-
 
 TIER_1_CITIES = ["Kathmandu", "Pokhara"]
 TIER_2_CITIES = ["Butwal", "Lalitpur", "Biratnagar"]
 
+# ---- Load model ----
+try:
+    with open("model.pkl", "rb") as f:
+        model = pickle.load(f)
+except Exception as e:
+    raise RuntimeError(f"Failed to load model.pkl: {e}")
+
 
 class UserInput(BaseModel):
-    age: Annotated[int, Field(gt=0, lt=120, description="Age", examples=[22])]
-    weight: Annotated[float, Field(gt=0, description="Weight in kg", examples=[60.0])]
-    height: Annotated[float, Field(gt=0, description="Height in meters", examples=[1.65])]
-    income: Annotated[float, Field(gt=0, description="Annual income", examples=[50000.0])]
-
-   
-    smoker: Annotated[bool, Field(description="Smoker status", examples=["Yes", "No"])]
-
-    city: Annotated[str, Field(description="City of residence", examples=["Kathmandu"])]
-
-    occupation: Annotated[
-        Literal[
-            "Student",
-            "Part-time Worker",
-            "Intern",
-            "Office Assistant",
-            "Teacher Assistant",
-            "Engineer",
-            "Software Developer",
-            "Designer",
-            "Sales Executive",
-        ],
-        Field(description="Occupation status"),
+    age: int = Field(gt=0, lt=120)
+    weight: float = Field(gt=0)
+    height: float = Field(gt=0)   # meters
+    income: float = Field(gt=0)
+    smoker: bool
+    city: str
+    occupation: Literal[
+        "Student",
+        "Part-time Worker",
+        "Intern",
+        "Office Assistant",
+        "Teacher Assistant",
+        "Engineer",
+        "Software Developer",
+        "Designer",
+        "Sales Executive",
     ]
-
-    
 
     @property
     def bmi(self) -> float:
@@ -57,6 +43,7 @@ class UserInput(BaseModel):
 
     @property
     def lifestyle_risk(self) -> str:
+        # MUST match training casing: Low/Medium/High
         if self.smoker and self.bmi > 30:
             return "High"
         elif self.smoker or self.bmi > 27:
@@ -85,26 +72,25 @@ class UserInput(BaseModel):
             return 3
 
 
-def predict_risk(user_input: UserInput):
-   
+@app.get("/")
+def home():
+    return {"message": "API is running"}
+
+
+@app.post("/predict")
+def predict(data: UserInput):
     input_df = pd.DataFrame([{
-        "age": user_input.age,
-        "weight": user_input.weight,
-        "height": user_input.height,
-        "income": user_input.income, 
-        "bmi": user_input.bmi,
-        "age_group": user_input.age_group,
-        "lifestyle_risk": user_input.lifestyle_risk,
-        "city_tier": user_input.city_tier,
-        "occupation": user_input.occupation,
+        "bmi": data.bmi,
+        "age_group": data.age_group,
+        "lifestyle_risk": data.lifestyle_risk,
+        "city_tier": data.city_tier,
+        "income": data.income,
+        "occupation": data.occupation,
     }])
 
     try:
-        prediction = model.predict(input_df)[0]
+        pred = model.predict(input_df)[0]
     except Exception as e:
-        raise HTTPException(
-            status_code=500,
-            detail=f"Model prediction failed. Check training feature columns match API columns. Error: {e}"
-        )
+        raise HTTPException(status_code=500, detail=str(e))
 
-    return JSONResponse(status_code=200, content={"predicted_category": prediction})
+    return JSONResponse(content={"predicted_category": pred})

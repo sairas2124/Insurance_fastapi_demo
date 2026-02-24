@@ -1,101 +1,1001 @@
 age,weight,height,income,smoker,city,occupation,insurance_premium_category
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
-18,55,1.6,12000,No,Kathmandu,Student,Low
-19,62,1.72,15000,No,Pokhara,Student,Low
-20,70,1.75,18000,Yes,Butwal,Part-time Worker,Medium
-21,68,1.7,22000,No,Lalitpur,Intern,Low
-22,80,1.78,30000,Yes,Biratnagar,Office Assistant,High
-23,75,1.74,28000,No,Chitwan,Teacher Assistant,Medium
-24,90,1.82,40000,Yes,Kathmandu,Engineer,High
-25,85,1.8,42000,No,Butwal,Software Developer,Medium
-26,60,1.65,25000,No,Pokhara,Designer,Low
-27,72,1.76,31000,Yes,Lalitpur,Sales Executive,High
+24,70.6,1.61,10733,No,Tulsipur,Student,Low
+33,55.2,1.54,24782,No,Janakpur,Student,Low
+56,65.7,1.77,35301,No,Lalitpur,Student,Low
+26,53.7,1.45,28752,No,Kathmandu,Student,Low
+28,50.2,1.61,20380,Yes,Dharan,Sales Executive,Medium
+42,47.2,1.52,19949,No,Butwal,Student,Low
+33,49.7,1.58,19951,No,Janakpur,Office Assistant,Low
+56,64.5,1.64,18080,No,Bhairahawa,Office Assistant,Low
+55,74.0,1.58,14717,No,Bharatpur,Office Assistant,Medium
+46,49.0,1.67,8465,No,Bharatpur,Student,Low
+59,73.7,1.61,14908,No,Hetauda,Student,Low
+33,67.6,1.56,9747,No,Pokhara,Intern,Low
+29,63.8,1.62,21682,Yes,Janakpur,Sales Executive,Low
+40,73.8,1.78,15471,No,Butwal,Student,Low
+39,46.0,1.65,23620,No,Bhairahawa,Student,Low
+46,71.4,1.76,26830,No,Kathmandu,Teacher Assistant,Low
+30,57.8,1.71,19975,No,Biratnagar,Intern,Low
+25,90.5,1.62,15609,No,Dhangadhi,Teacher Assistant,Low
+43,60.2,1.8,22746,No,Pokhara,Office Assistant,Low
+54,58.2,1.57,36891,No,Dharan,Engineer,Low
+49,90.4,1.76,16616,No,Bharatpur,Student,Low
+50,48.9,1.68,35063,No,Kathmandu,Office Assistant,Low
+49,71.0,1.73,3891,No,Hetauda,Student,Low
+24,84.5,1.72,9405,Yes,Biratnagar,Student,Low
+30,45.0,1.63,25533,No,Biratnagar,Intern,Low
+51,49.6,1.51,19313,No,Itahari,Office Assistant,Low
+27,68.6,1.62,18485,No,Dharan,Student,Medium
+46,64.8,1.53,21342,No,Biratnagar,Student,Low
+28,57.7,1.64,31278,No,Dhangadhi,Software Developer,Low
+24,73.7,1.71,28237,No,Kathmandu,Engineer,Low
+64,85.2,1.64,14606,No,Pokhara,Student,High
+38,66.8,1.61,8085,No,Lalitpur,Student,Low
+40,62.7,1.7,16616,No,Kathmandu,Student,Low
+38,70.3,1.69,9523,No,Butwal,Student,Low
+33,67.5,1.61,24796,Yes,Butwal,Student,Medium
+33,61.7,1.63,29270,No,Bhairahawa,Designer,Low
+45,52.7,1.61,28369,No,Bhairahawa,Software Developer,Low
+36,62.7,1.64,10354,No,Bhairahawa,Student,Low
+19,50.7,1.62,18060,No,Kathmandu,Intern,Low
+50,52.6,1.5,20819,No,Hetauda,Office Assistant,Low
+24,74.9,1.67,23886,No,Butwal,Intern,Low
+29,85.2,1.76,35572,Yes,Pokhara,Engineer,Medium
+23,64.1,1.69,17948,No,Janakpur,Intern,Low
+24,63.8,1.64,6642,No,Dharan,Intern,Low
+19,77.2,1.65,19993,No,Butwal,Office Assistant,Low
+54,59.6,1.71,11874,No,Itahari,Part-time Worker,Low
+29,48.4,1.71,35569,Yes,Pokhara,Office Assistant,Medium
+54,55.8,1.69,34217,No,Hetauda,Software Developer,Low
+36,50.1,1.62,12373,No,Bharatpur,Intern,Low
+27,78.4,1.52,16490,No,Hetauda,Student,Low
+62,48.9,1.63,22943,No,Bhairahawa,Student,Low
+47,79.4,1.62,32816,No,Dhangadhi,Software Developer,Low
+26,61.7,1.56,12766,No,Biratnagar,Part-time Worker,Low
+59,55.4,1.69,17744,No,Janakpur,Student,Low
+61,51.1,1.45,16611,No,Bhairahawa,Intern,Low
+39,72.2,1.62,25007,Yes,Pokhara,Student,Medium
+30,54.8,1.74,9384,No,Hetauda,Student,Low
+42,66.1,1.68,30385,No,Lalitpur,Software Developer,Low
+39,61.5,1.56,12353,No,Gorkha,Student,Low
+19,47.7,1.46,39252,No,Pokhara,Engineer,Low
+57,70.0,1.69,11833,Yes,Butwal,Student,Low
+41,61.0,1.71,36137,Yes,Janakpur,Software Developer,Low
+27,67.8,1.71,27337,Yes,Biratnagar,Sales Executive,Low
+54,59.1,1.68,16278,No,Kathmandu,Student,Low
+56,71.7,1.61,13278,No,Bharatpur,Part-time Worker,Low
+61,46.6,1.56,23904,Yes,Itahari,Designer,Medium
+19,66.0,1.6,20342,No,Biratnagar,Student,Low
+56,53.4,1.58,14905,Yes,Dharan,Student,Medium
+55,60.8,1.7,30172,No,Butwal,Student,Medium
+26,40.0,1.46,29894,No,Pokhara,Sales Executive,Low
+49,56.6,1.67,33089,No,Pokhara,Office Assistant,Low
+46,45.6,1.56,9570,No,Janakpur,Student,Low
+55,44.6,1.55,11211,No,Pokhara,Student,Low
+53,66.2,1.69,21560,Yes,Kathmandu,Teacher Assistant,Low
+62,96.2,1.77,26119,Yes,Gorkha,Engineer,High
+40,74.6,1.81,10898,No,Dhangadhi,Student,Low
+27,78.0,1.77,17457,No,Biratnagar,Student,Low
+47,45.6,1.56,38172,No,Gorkha,Software Developer,Low
+57,61.8,1.63,17711,No,Bhairahawa,Part-time Worker,Low
+44,59.4,1.55,20297,No,Biratnagar,Office Assistant,Low
+61,51.9,1.54,16508,No,Butwal,Student,Medium
+60,54.6,1.56,14397,Yes,Butwal,Student,Medium
+40,77.3,1.57,14299,No,Kathmandu,Intern,Low
+35,73.2,1.71,13448,Yes,Butwal,Part-time Worker,Low
+62,59.2,1.65,12981,No,Dharan,Student,Low
+42,67.4,1.74,20672,No,Dharan,Part-time Worker,Low
+63,74.2,1.8,28178,No,Lalitpur,Part-time Worker,Medium
+61,57.6,1.83,21662,No,Nepalgunj,Office Assistant,Low
+61,56.3,1.68,29019,No,Kathmandu,Intern,Low
+19,64.0,1.62,14870,No,Pokhara,Sales Executive,Low
+62,83.5,1.66,17816,No,Dhangadhi,Student,Medium
+61,65.3,1.75,28354,No,Pokhara,Student,Medium
+27,70.0,1.71,36808,No,Biratnagar,Engineer,Low
+39,64.2,1.63,21789,No,Gorkha,Sales Executive,Low
+50,48.0,1.71,29526,Yes,Tulsipur,Engineer,Low
+44,84.9,1.7,26486,No,Dharan,Engineer,Low
+34,60.0,1.66,14294,No,Tulsipur,Intern,Low
+54,50.2,1.67,15542,No,Dhangadhi,Part-time Worker,Low
+63,78.2,1.63,26967,No,Itahari,Engineer,Medium
+49,75.9,1.76,11889,No,Tulsipur,Student,Low
+42,58.9,1.57,6581,No,Nepalgunj,Student,Low
+20,48.9,1.55,12076,No,Lalitpur,Student,Low
+25,66.9,1.74,18309,No,Butwal,Intern,Low
+49,68.3,1.72,17223,No,Janakpur,Part-time Worker,Low
+50,72.9,1.75,15503,Yes,Bharatpur,Part-time Worker,Medium
+54,66.9,1.63,3508,Yes,Tulsipur,Student,Low
+64,74.3,1.65,17411,No,Bharatpur,Student,Medium
+37,65.3,1.59,14904,No,Biratnagar,Student,Low
+33,59.8,1.61,39674,No,Tulsipur,Software Developer,Medium
+54,58.2,1.7,24874,No,Kathmandu,Engineer,Medium
+61,76.3,1.68,6877,No,Bharatpur,Student,Low
+48,73.9,1.63,17431,No,Kathmandu,Student,Low
+48,54.8,1.53,14635,No,Hetauda,Teacher Assistant,Low
+20,53.0,1.59,9540,Yes,Dhangadhi,Part-time Worker,Low
+22,63.2,1.59,15486,No,Biratnagar,Student,Low
+56,40.0,1.59,17134,Yes,Pokhara,Part-time Worker,Medium
+41,48.0,1.5,24128,No,Dharan,Designer,Low
+34,47.6,1.68,6408,Yes,Janakpur,Student,Low
+45,58.8,1.56,15361,No,Hetauda,Intern,Low
+43,75.5,1.67,10040,No,Hetauda,Intern,Low
+42,68.1,1.51,22528,No,Janakpur,Engineer,Medium
+27,66.4,1.63,32414,No,Tulsipur,Designer,Low
+53,81.6,1.82,19907,No,Dharan,Student,Low
+55,93.9,1.76,17879,Yes,Nepalgunj,Student,Medium
+38,71.4,1.62,17829,Yes,Biratnagar,Part-time Worker,Medium
+58,69.9,1.56,23711,No,Biratnagar,Teacher Assistant,Medium
+20,57.0,1.59,25956,Yes,Tulsipur,Engineer,Low
+49,59.2,1.63,22254,Yes,Nepalgunj,Engineer,Low
+57,90.9,1.73,19316,No,Lalitpur,Part-time Worker,Medium
+18,52.1,1.45,6349,No,Tulsipur,Student,Low
+48,70.5,1.67,10480,No,Kathmandu,Student,Low
+46,44.7,1.48,20986,No,Lalitpur,Part-time Worker,Low
+45,73.2,1.81,15896,No,Bharatpur,Intern,Low
+47,49.9,1.84,37785,Yes,Hetauda,Software Developer,Low
+61,49.6,1.54,19785,No,Lalitpur,Office Assistant,Low
+20,67.4,1.6,22920,No,Biratnagar,Office Assistant,Low
+38,75.9,1.6,16162,No,Bharatpur,Intern,Low
+30,47.5,1.45,16026,No,Butwal,Teacher Assistant,Low
+48,59.0,1.87,17912,No,Hetauda,Intern,Low
+39,71.3,1.83,32844,Yes,Kathmandu,Office Assistant,Low
+21,74.8,1.61,28555,No,Pokhara,Office Assistant,Low
+37,62.0,1.55,12593,No,Bhairahawa,Intern,Low
+61,69.0,1.69,38838,No,Pokhara,Software Developer,Medium
+40,62.5,1.72,29037,No,Lalitpur,Part-time Worker,Low
+64,61.5,1.65,16969,Yes,Pokhara,Intern,Low
+45,65.3,1.82,17205,No,Biratnagar,Part-time Worker,Medium
+20,74.6,1.61,14222,No,Dharan,Teacher Assistant,Low
+47,76.5,1.78,28886,No,Dharan,Software Developer,Low
+24,67.8,1.72,23893,No,Bharatpur,Software Developer,Low
+23,66.0,1.68,16056,No,Itahari,Intern,Low
+40,64.0,1.63,32769,No,Kathmandu,Part-time Worker,Medium
+41,65.8,1.7,14623,No,Janakpur,Student,Low
+44,54.0,1.81,40705,Yes,Gorkha,Software Developer,Low
+51,51.2,1.58,12572,Yes,Nepalgunj,Sales Executive,Low
+36,88.4,1.69,21133,Yes,Itahari,Engineer,Medium
+53,49.0,1.76,33653,No,Dharan,Software Developer,Low
+23,46.3,1.58,10079,Yes,Nepalgunj,Student,Medium
+45,75.8,1.68,27151,No,Hetauda,Software Developer,Low
+61,69.1,1.58,18181,No,Tulsipur,Office Assistant,Low
+56,81.9,1.68,24874,No,Lalitpur,Part-time Worker,Medium
+55,74.7,1.77,12806,No,Biratnagar,Student,Low
+40,64.9,1.63,20113,Yes,Bharatpur,Part-time Worker,Medium
+57,61.5,1.57,28001,No,Gorkha,Part-time Worker,Low
+40,87.3,1.63,22836,Yes,Tulsipur,Office Assistant,Low
+50,66.3,1.68,11269,No,Tulsipur,Part-time Worker,Low
+61,74.7,1.74,18436,Yes,Tulsipur,Intern,Medium
+31,67.9,1.53,8746,Yes,Itahari,Student,Medium
+54,51.6,1.55,15750,Yes,Butwal,Part-time Worker,Medium
+29,62.4,1.64,14347,No,Hetauda,Student,Low
+49,56.6,1.54,15887,Yes,Dharan,Student,Low
+59,91.3,1.81,24030,Yes,Bhairahawa,Intern,Medium
+23,77.4,1.8,39003,No,Butwal,Engineer,Low
+31,55.5,1.67,15074,No,Butwal,Intern,Low
+55,58.0,1.66,29682,Yes,Lalitpur,Software Developer,Low
+33,57.7,1.58,15439,No,Gorkha,Intern,Low
+59,50.4,1.66,30557,No,Pokhara,Engineer,Low
+49,75.4,1.66,10882,No,Bhairahawa,Student,Low
+45,66.3,1.74,17082,No,Hetauda,Teacher Assistant,Low
+42,76.9,1.72,19902,Yes,Gorkha,Part-time Worker,Low
+21,53.2,1.45,1862,No,Kathmandu,Office Assistant,Low
+31,66.5,1.56,6706,No,Janakpur,Intern,Low
+62,79.7,1.74,14613,No,Biratnagar,Student,Low
+53,55.3,1.48,21499,Yes,Itahari,Teacher Assistant,Low
+61,53.4,1.62,20408,Yes,Butwal,Teacher Assistant,Medium
+18,46.3,1.68,8971,No,Pokhara,Office Assistant,Low
+19,62.4,1.59,35913,No,Gorkha,Engineer,Low
+64,66.4,1.62,43525,No,Tulsipur,Software Developer,Medium
+42,89.7,1.94,48944,Yes,Nepalgunj,Software Developer,Low
+60,68.6,1.78,9210,No,Lalitpur,Student,Low
+25,65.5,1.6,28362,No,Lalitpur,Designer,Low
+62,94.1,1.72,15209,No,Janakpur,Student,Medium
+19,63.7,1.54,14562,No,Gorkha,Student,Low
+54,76.7,1.65,28917,No,Kathmandu,Part-time Worker,Medium
+63,55.7,1.72,25850,Yes,Tulsipur,Engineer,Medium
+39,50.2,1.58,11713,No,Biratnagar,Teacher Assistant,Low
+61,58.2,1.5,23904,Yes,Kathmandu,Student,Medium
+32,60.3,1.6,32586,No,Bhairahawa,Engineer,Low
+30,67.4,1.61,44993,No,Lalitpur,Software Developer,Low
+36,65.3,1.59,22763,No,Pokhara,Teacher Assistant,Low
+44,60.7,1.57,33823,Yes,Kathmandu,Engineer,Low
+38,54.1,1.51,9577,No,Nepalgunj,Intern,Low
+25,63.8,1.65,16845,No,Dhangadhi,Office Assistant,Low
+29,66.4,1.58,13792,No,Biratnagar,Intern,Low
+59,57.6,1.72,9094,No,Dharan,Student,Medium
+55,71.0,1.68,48115,No,Kathmandu,Engineer,Low
+45,84.0,1.9,29521,No,Butwal,Designer,Low
+56,72.1,1.71,30210,No,Dharan,Software Developer,Medium
+29,59.9,1.52,13609,No,Kathmandu,Part-time Worker,Low
+37,48.7,1.75,35021,No,Dharan,Engineer,Low
+47,47.3,1.45,20657,Yes,Pokhara,Student,Low
+33,46.4,1.67,19326,No,Pokhara,Student,Low
+28,78.5,1.67,18512,Yes,Kathmandu,Intern,Low
+62,71.6,1.67,20192,No,Biratnagar,Student,Low
+60,59.3,1.45,12295,Yes,Janakpur,Student,Medium
+43,71.4,1.66,28894,No,Butwal,Student,Low
+35,69.1,1.67,4756,No,Nepalgunj,Student,Low
+46,62.8,1.71,23388,Yes,Kathmandu,Student,Low
+19,65.2,1.69,17223,No,Bhairahawa,Teacher Assistant,Low
+26,77.3,1.68,14895,No,Hetauda,Part-time Worker,Low
+40,67.7,1.64,15335,No,Itahari,Student,Low
+24,77.4,1.65,24072,No,Biratnagar,Student,Low
+27,57.2,1.53,20194,No,Butwal,Office Assistant,Low
+28,97.3,1.86,13901,No,Lalitpur,Intern,Low
+54,71.1,1.62,15042,No,Hetauda,Student,Medium
+41,58.6,1.67,19704,No,Kathmandu,Teacher Assistant,Low
+48,73.1,1.7,18690,No,Hetauda,Student,Medium
+57,47.6,1.62,12058,No,Butwal,Student,Low
+43,79.6,1.79,10117,No,Tulsipur,Student,Low
+39,60.2,1.66,52082,No,Pokhara,Engineer,Low
+39,58.9,1.63,20977,No,Itahari,Student,Low
+60,72.4,1.65,23936,No,Kathmandu,Office Assistant,Medium
+42,66.2,1.64,9833,No,Lalitpur,Student,Low
+56,56.4,1.56,22326,No,Butwal,Intern,Low
+35,59.8,1.66,17734,No,Pokhara,Student,Low
+44,51.3,1.72,30336,No,Biratnagar,Designer,Low
+28,76.4,1.66,17683,Yes,Pokhara,Intern,Low
+58,64.5,1.56,25171,No,Butwal,Engineer,Low
+28,75.6,1.64,13028,No,Butwal,Student,Low
+46,61.4,1.53,15331,No,Janakpur,Office Assistant,Low
+57,62.4,1.59,15517,No,Pokhara,Student,Medium
+38,72.7,1.64,10392,No,Bharatpur,Office Assistant,Low
+39,69.1,1.61,22034,No,Janakpur,Office Assistant,Low
+63,70.6,1.68,23641,No,Pokhara,Part-time Worker,Low
+38,93.1,1.76,18964,No,Pokhara,Intern,Low
+32,46.7,1.63,6920,No,Hetauda,Student,Low
+51,42.1,1.54,21736,No,Kathmandu,Part-time Worker,Low
+21,78.1,1.69,25774,No,Lalitpur,Software Developer,Low
+28,67.5,1.54,15068,No,Pokhara,Part-time Worker,Low
+47,61.6,1.72,14489,No,Pokhara,Student,Low
+25,73.6,1.6,34931,No,Bharatpur,Engineer,Low
+25,51.8,1.58,12581,No,Gorkha,Student,Low
+43,71.1,1.65,13977,No,Hetauda,Student,Low
+18,84.4,1.79,36054,No,Hetauda,Engineer,Low
+53,43.9,1.68,22007,No,Hetauda,Teacher Assistant,Low
+31,48.4,1.65,15023,Yes,Pokhara,Student,Low
+61,74.6,1.77,25348,No,Kathmandu,Student,Low
+45,62.2,1.64,16573,No,Biratnagar,Intern,Low
+43,61.3,1.63,7689,No,Gorkha,Student,Low
+38,57.1,1.61,18350,No,Tulsipur,Software Developer,Low
+58,68.9,1.58,5304,No,Janakpur,Student,Low
+37,78.9,1.63,9174,No,Bharatpur,Student,Low
+63,62.4,1.68,24048,No,Dharan,Designer,Medium
+50,45.0,1.63,8143,No,Nepalgunj,Part-time Worker,Low
+39,72.0,1.7,24632,No,Tulsipur,Engineer,Low
+59,101.5,1.82,19146,Yes,Lalitpur,Part-time Worker,Medium
+38,70.8,1.64,12816,No,Biratnagar,Part-time Worker,Low
+32,41.9,1.63,24577,No,Kathmandu,Office Assistant,Low
+18,46.7,1.52,26992,No,Gorkha,Engineer,Low
+33,69.6,1.55,16486,No,Itahari,Student,Low
+62,78.2,1.64,20241,Yes,Janakpur,Student,Medium
+61,61.1,1.64,15131,No,Kathmandu,Student,Low
+29,45.9,1.49,10683,No,Kathmandu,Part-time Worker,Low
+18,57.8,1.45,12847,No,Bharatpur,Student,Low
+26,63.2,1.66,10924,Yes,Tulsipur,Teacher Assistant,Low
+56,49.5,1.65,12492,No,Bharatpur,Intern,Low
+22,67.6,1.75,14733,No,Pokhara,Intern,Low
+34,73.7,1.69,10784,No,Tulsipur,Student,Low
+24,76.5,1.66,16603,Yes,Lalitpur,Office Assistant,Medium
+38,59.1,1.65,23405,Yes,Butwal,Office Assistant,Medium
+23,69.6,1.65,29368,No,Nepalgunj,Designer,Low
+22,86.9,1.78,23365,No,Hetauda,Engineer,Low
+39,60.0,1.68,19616,No,Hetauda,Student,Low
+47,76.2,1.64,38720,No,Kathmandu,Engineer,Medium
+55,77.2,1.77,29222,No,Kathmandu,Student,Low
+51,55.8,1.74,13943,No,Kathmandu,Student,Low
+41,75.4,1.78,33684,Yes,Gorkha,Engineer,Low
+53,71.4,1.82,21544,No,Butwal,Engineer,Low
+31,45.1,1.65,1500,No,Pokhara,Student,Low
+45,75.3,1.63,28111,No,Bhairahawa,Engineer,Low
+22,72.1,1.57,33117,No,Lalitpur,Engineer,Low
+63,66.0,1.73,17574,No,Dharan,Intern,Low
+63,98.0,1.8,11387,No,Dhangadhi,Intern,Medium
+48,66.9,1.67,9717,Yes,Tulsipur,Student,Medium
+18,44.5,1.62,18779,No,Lalitpur,Student,Low
+28,49.9,1.64,18999,No,Lalitpur,Student,Low
+26,69.6,1.45,17248,No,Itahari,Part-time Worker,Medium
+62,72.2,1.85,34138,No,Kathmandu,Part-time Worker,Medium
+19,62.9,1.55,11807,No,Itahari,Teacher Assistant,Low
+50,65.2,1.57,20679,No,Butwal,Student,Low
+49,44.3,1.63,15166,No,Bhairahawa,Student,Low
+20,70.8,1.69,16805,No,Dhangadhi,Part-time Worker,Low
+63,69.7,1.57,28940,No,Pokhara,Student,Low
+29,60.5,1.64,8166,No,Gorkha,Part-time Worker,Low
+54,74.2,1.79,21280,Yes,Lalitpur,Part-time Worker,Low
+30,67.2,1.61,43659,Yes,Kathmandu,Software Developer,Medium
+31,44.4,1.63,10972,No,Biratnagar,Student,Low
+39,61.4,1.68,13600,No,Bhairahawa,Software Developer,Low
+61,46.9,1.69,20321,No,Itahari,Part-time Worker,Low
+38,72.7,1.57,16226,No,Butwal,Intern,Medium
+29,61.2,1.56,14461,No,Butwal,Student,Low
+33,50.9,1.67,16084,Yes,Dharan,Student,Low
+46,97.9,1.78,18001,No,Lalitpur,Office Assistant,Medium
+57,70.0,1.61,12698,No,Lalitpur,Office Assistant,Medium
+44,93.0,1.71,17541,No,Gorkha,Part-time Worker,Low
+42,73.6,1.66,15220,No,Janakpur,Teacher Assistant,Low
+19,51.0,1.68,24676,No,Bhairahawa,Student,Low
+43,68.0,1.71,25509,No,Kathmandu,Teacher Assistant,Low
+32,65.3,1.62,18338,No,Dhangadhi,Office Assistant,Low
+40,61.7,1.68,20889,Yes,Biratnagar,Designer,Low
+55,45.3,1.45,1500,No,Kathmandu,Student,Low
+49,61.1,1.64,19615,No,Bhairahawa,Engineer,Medium
+56,59.4,1.45,22096,No,Butwal,Intern,Medium
+18,62.2,1.73,11124,No,Kathmandu,Student,Low
+41,72.7,1.73,16821,No,Hetauda,Student,Low
+23,91.1,1.81,43597,No,Lalitpur,Software Developer,Low
+42,62.2,1.68,6161,No,Bhairahawa,Student,Low
+47,54.6,1.46,24427,No,Janakpur,Software Developer,Low
+28,69.1,1.63,17625,No,Pokhara,Student,Low
+42,53.3,1.63,16512,No,Lalitpur,Student,Low
+44,49.4,1.58,11052,No,Biratnagar,Student,Low
+26,47.8,1.65,6923,No,Lalitpur,Student,Low
+49,71.0,1.7,18994,No,Bhairahawa,Student,Low
+57,73.3,1.64,21816,Yes,Kathmandu,Intern,Medium
+35,81.5,1.78,21207,No,Kathmandu,Student,Low
+22,81.4,1.78,8345,No,Dhangadhi,Student,Low
+52,71.2,1.75,10285,No,Lalitpur,Student,Low
+18,61.0,1.68,13455,No,Bhairahawa,Student,Low
+45,65.9,1.65,22834,No,Pokhara,Student,Low
+23,68.4,1.68,25034,No,Kathmandu,Part-time Worker,Low
+25,54.1,1.5,10787,No,Janakpur,Part-time Worker,Low
+18,62.6,1.65,20071,No,Butwal,Part-time Worker,Low
+41,71.4,1.68,13899,Yes,Butwal,Student,Medium
+54,52.3,1.55,28288,No,Bharatpur,Designer,Medium
+44,75.0,1.72,35505,No,Itahari,Engineer,Low
+51,40.0,1.47,16634,No,Butwal,Student,Low
+61,75.1,1.66,19141,No,Pokhara,Student,Low
+56,64.7,1.69,33753,No,Tulsipur,Engineer,Medium
+59,59.2,1.49,10456,Yes,Dhangadhi,Student,Medium
+38,63.5,1.64,17361,No,Kathmandu,Part-time Worker,Low
+41,44.0,1.63,16690,No,Kathmandu,Intern,Low
+25,57.5,1.57,30070,Yes,Kathmandu,Teacher Assistant,Medium
+37,78.8,1.75,13070,Yes,Kathmandu,Intern,Low
+46,76.4,1.7,25252,Yes,Pokhara,Intern,Low
+40,46.7,1.68,17903,No,Lalitpur,Part-time Worker,Low
+30,52.0,1.67,27663,No,Kathmandu,Student,Low
+44,53.9,1.52,27597,No,Lalitpur,Engineer,Low
+35,64.3,1.64,14607,No,Bharatpur,Engineer,Low
+37,65.6,1.84,37778,No,Pokhara,Part-time Worker,Low
+29,53.1,1.54,12633,No,Gorkha,Student,Low
+64,72.7,1.6,28968,No,Biratnagar,Software Developer,Medium
+45,66.1,1.59,9162,No,Hetauda,Student,Low
+22,98.3,1.78,24513,No,Tulsipur,Office Assistant,Medium
+32,104.2,1.71,56730,Yes,Janakpur,Software Developer,High
+63,65.7,1.69,3582,Yes,Nepalgunj,Office Assistant,Low
+37,64.8,1.64,16131,No,Butwal,Student,Low
+43,69.4,1.69,27546,No,Bhairahawa,Engineer,Low
+51,69.5,1.58,15066,Yes,Nepalgunj,Part-time Worker,Medium
+35,68.6,1.73,25492,No,Biratnagar,Student,Low
+59,69.0,1.65,8743,No,Bharatpur,Part-time Worker,Low
+63,65.8,1.67,8118,No,Biratnagar,Student,Low
+19,70.7,1.82,15676,No,Lalitpur,Teacher Assistant,Low
+44,59.7,1.62,18536,No,Tulsipur,Student,Low
+64,64.5,1.65,33695,No,Lalitpur,Engineer,Low
+51,66.6,1.7,22609,No,Hetauda,Office Assistant,Low
+22,54.6,1.69,30752,No,Janakpur,Software Developer,Low
+35,71.0,1.72,26133,No,Pokhara,Student,Low
+49,65.8,1.69,11722,No,Pokhara,Student,Low
+24,50.5,1.64,14945,No,Lalitpur,Student,Low
+54,81.5,1.78,13019,Yes,Pokhara,Intern,Low
+31,78.8,1.67,8414,No,Butwal,Student,Low
+32,43.2,1.56,20764,No,Pokhara,Office Assistant,Low
+58,44.2,1.61,23025,No,Pokhara,Student,Low
+51,77.2,1.68,13184,No,Tulsipur,Intern,Low
+41,58.3,1.54,28927,No,Bhairahawa,Software Developer,Low
+23,56.3,1.63,36301,No,Dharan,Software Developer,Low
+24,49.5,1.6,5135,No,Itahari,Student,Low
+23,52.7,1.51,15429,No,Pokhara,Part-time Worker,Low
+22,68.7,1.69,11826,No,Hetauda,Student,Low
+34,67.6,1.75,8438,No,Pokhara,Student,Low
+57,49.4,1.59,8458,Yes,Hetauda,Student,Low
+38,55.2,1.5,25105,No,Itahari,Sales Executive,Low
+53,71.8,1.77,21752,No,Nepalgunj,Intern,Low
+51,72.1,1.66,16668,No,Pokhara,Student,Low
+40,73.1,1.8,28455,No,Butwal,Software Developer,Low
+57,60.8,1.64,17471,No,Kathmandu,Teacher Assistant,Low
+43,49.6,1.75,11611,No,Bhairahawa,Student,Low
+41,62.2,1.76,29920,No,Kathmandu,Office Assistant,Low
+24,71.7,1.6,24744,No,Biratnagar,Intern,Low
+36,61.4,1.71,20105,No,Kathmandu,Student,Low
+34,72.4,1.61,16575,No,Tulsipur,Part-time Worker,Low
+54,68.4,1.6,1658,No,Tulsipur,Student,Low
+46,59.4,1.68,24452,No,Kathmandu,Part-time Worker,Low
+18,65.5,1.68,55609,No,Kathmandu,Software Developer,Low
+25,67.3,1.6,20352,No,Gorkha,Sales Executive,Low
+20,94.6,1.76,23016,No,Lalitpur,Intern,Low
+22,51.7,1.51,22291,No,Biratnagar,Student,Low
+43,69.4,1.71,33408,No,Bharatpur,Sales Executive,Low
+27,56.8,1.55,26911,No,Butwal,Student,Low
+27,72.9,1.61,32240,No,Lalitpur,Office Assistant,Low
+29,55.0,1.62,27012,No,Butwal,Designer,Low
+59,69.8,1.66,18449,No,Nepalgunj,Software Developer,Low
+59,74.9,1.62,20037,No,Lalitpur,Engineer,Low
+47,73.3,1.72,17381,No,Butwal,Student,Low
+64,64.9,1.73,1500,No,Biratnagar,Student,Medium
+23,51.9,1.55,13383,No,Pokhara,Teacher Assistant,Low
+49,59.7,1.74,13795,No,Itahari,Student,Low
+63,61.9,1.51,15409,No,Hetauda,Student,Low
+39,69.5,1.69,33411,No,Biratnagar,Engineer,Low
+40,96.5,1.72,8789,No,Dharan,Student,Medium
+62,70.3,1.63,44535,No,Pokhara,Engineer,Medium
+57,47.0,1.52,23400,No,Dhangadhi,Part-time Worker,Low
+55,52.6,1.54,29200,No,Pokhara,Engineer,Low
+55,57.4,1.65,21229,No,Pokhara,Part-time Worker,Low
+48,58.6,1.69,34922,No,Pokhara,Office Assistant,Low
+24,87.8,1.74,26048,Yes,Pokhara,Intern,Low
+32,58.4,1.59,20723,No,Bharatpur,Sales Executive,Low
+57,62.8,1.73,11434,No,Tulsipur,Intern,Low
+53,68.9,1.67,22198,No,Kathmandu,Student,Medium
+55,63.4,1.56,24209,No,Pokhara,Intern,Low
+25,73.0,1.83,10698,No,Dhangadhi,Student,Low
+62,49.1,1.66,12056,No,Kathmandu,Student,Low
+57,67.7,1.65,22492,No,Itahari,Student,Low
+63,59.8,1.57,23961,No,Hetauda,Engineer,Low
+24,54.9,1.64,25581,No,Biratnagar,Designer,Low
+21,71.1,1.69,13404,No,Biratnagar,Student,Low
+52,54.8,1.69,32672,No,Pokhara,Student,Low
+41,79.0,1.62,6438,No,Kathmandu,Student,Low
+19,82.6,1.74,20656,No,Hetauda,Student,Low
+58,50.6,1.49,17176,Yes,Gorkha,Student,Medium
+48,90.7,1.79,16539,No,Bhairahawa,Part-time Worker,Low
+27,76.0,1.74,37070,No,Butwal,Software Developer,Low
+31,120.0,1.87,15196,Yes,Bhairahawa,Student,High
+32,66.1,1.7,22929,No,Lalitpur,Student,Low
+55,54.9,1.64,25752,No,Lalitpur,Intern,Low
+20,56.7,1.45,22364,No,Bhairahawa,Part-time Worker,Low
+23,78.5,1.75,29967,No,Dhangadhi,Office Assistant,Low
+35,72.1,1.66,39619,Yes,Biratnagar,Engineer,Low
+51,45.4,1.67,11904,No,Hetauda,Part-time Worker,Low
+50,59.4,1.69,20717,No,Pokhara,Part-time Worker,Low
+22,71.6,1.71,22248,No,Pokhara,Part-time Worker,Low
+61,67.4,1.55,24614,No,Tulsipur,Designer,Medium
+23,63.1,1.82,19615,No,Dhangadhi,Intern,Low
+46,43.5,1.48,15301,No,Itahari,Intern,Low
+37,50.2,1.62,10335,No,Dhangadhi,Office Assistant,Low
+54,55.5,1.55,4198,Yes,Hetauda,Student,Low
+26,64.8,1.66,15287,No,Lalitpur,Student,Low
+52,68.5,1.55,24112,No,Janakpur,Teacher Assistant,Low
+24,66.8,1.67,21827,No,Biratnagar,Engineer,Low
+22,65.7,1.68,17886,No,Hetauda,Office Assistant,Low
+31,42.2,1.65,17055,No,Biratnagar,Student,Low
+50,55.6,1.62,17845,No,Nepalgunj,Teacher Assistant,Low
+39,56.5,1.53,9963,No,Kathmandu,Student,Low
+47,66.5,1.78,14298,No,Tulsipur,Intern,Low
+37,46.6,1.52,17431,No,Butwal,Student,Low
+53,51.6,1.56,6047,No,Gorkha,Student,Low
+55,60.6,1.83,55310,Yes,Lalitpur,Software Developer,Medium
+41,65.3,1.61,28222,No,Kathmandu,Intern,Low
+23,61.7,1.69,15235,Yes,Tulsipur,Intern,Low
+32,65.1,1.71,16717,Yes,Tulsipur,Student,Low
+47,62.9,1.73,27038,No,Tulsipur,Sales Executive,Medium
+18,68.5,1.58,15478,No,Butwal,Intern,Low
+57,59.4,1.57,17840,Yes,Itahari,Student,Medium
+43,99.7,1.85,6602,Yes,Lalitpur,Student,Medium
+57,60.2,1.52,30729,No,Kathmandu,Office Assistant,Low
+63,78.9,1.67,16251,Yes,Dhangadhi,Student,Medium
+29,55.3,1.49,22645,No,Kathmandu,Student,Low
+44,65.3,1.63,34617,No,Itahari,Sales Executive,Low
+48,86.9,1.77,25611,No,Gorkha,Part-time Worker,Low
+43,52.2,1.52,16560,No,Kathmandu,Student,Low
+64,62.2,1.57,16549,No,Lalitpur,Part-time Worker,Low
+39,74.4,1.72,17634,No,Pokhara,Part-time Worker,Low
+60,44.5,1.52,37161,No,Kathmandu,Engineer,Low
+63,58.0,1.62,9182,No,Itahari,Student,Low
+20,81.9,1.63,12851,No,Nepalgunj,Student,Low
+31,75.9,1.56,14223,No,Nepalgunj,Student,Low
+34,74.4,1.78,12989,Yes,Itahari,Student,Low
+50,58.2,1.63,21338,Yes,Lalitpur,Intern,Low
+44,41.7,1.63,18214,No,Biratnagar,Intern,Low
+25,64.7,1.66,15261,No,Butwal,Student,Low
+35,68.8,1.52,25527,No,Pokhara,Office Assistant,Low
+43,63.7,1.6,12940,No,Pokhara,Intern,Low
+54,40.0,1.6,23368,No,Gorkha,Teacher Assistant,Low
+52,69.8,1.7,27573,No,Lalitpur,Office Assistant,Low
+57,58.1,1.55,19630,No,Kathmandu,Student,Low
+58,58.4,1.54,22517,No,Kathmandu,Intern,Low
+60,65.2,1.62,34401,Yes,Pokhara,Office Assistant,Low
+41,65.5,1.82,21605,Yes,Hetauda,Software Developer,Low
+63,63.8,1.57,25673,No,Tulsipur,Office Assistant,Low
+39,77.4,1.7,42490,No,Biratnagar,Designer,Low
+39,75.7,1.73,13107,No,Butwal,Student,Low
+52,54.2,1.62,38855,No,Butwal,Engineer,Medium
+25,83.3,1.76,26040,No,Pokhara,Teacher Assistant,Low
+59,70.6,1.65,17355,Yes,Lalitpur,Office Assistant,Low
+26,42.9,1.6,11834,No,Nepalgunj,Student,Low
+56,58.1,1.59,7600,No,Dharan,Student,Low
+25,74.3,1.68,9018,No,Hetauda,Student,Low
+25,72.1,1.57,43459,Yes,Pokhara,Sales Executive,Medium
+29,61.4,1.59,12517,No,Dharan,Student,Low
+36,53.0,1.45,11320,No,Janakpur,Student,Low
+24,42.6,1.54,24853,Yes,Lalitpur,Teacher Assistant,Medium
+22,51.5,1.5,23328,No,Nepalgunj,Teacher Assistant,Low
+43,71.7,1.71,10151,No,Butwal,Student,Low
+55,66.2,1.61,9685,Yes,Itahari,Intern,Low
+54,55.9,1.49,25930,No,Bhairahawa,Software Developer,Low
+63,50.2,1.75,9826,No,Nepalgunj,Student,Low
+24,70.7,1.79,14250,No,Hetauda,Part-time Worker,Low
+51,45.4,1.64,31044,No,Itahari,Engineer,Low
+41,73.5,1.5,18180,No,Bharatpur,Engineer,Medium
+48,65.1,1.74,9423,No,Gorkha,Student,Low
+26,58.7,1.51,27579,No,Bharatpur,Designer,Low
+25,73.2,1.78,16141,No,Biratnagar,Student,Low
+41,72.6,1.62,29376,No,Pokhara,Part-time Worker,Low
+61,49.1,1.69,9511,No,Tulsipur,Student,Medium
+47,86.4,1.78,37603,No,Itahari,Engineer,Low
+52,75.7,1.7,10226,No,Dharan,Intern,Medium
+36,65.7,1.6,29226,No,Kathmandu,Part-time Worker,Low
+24,77.3,1.7,39956,No,Butwal,Engineer,Low
+50,52.6,1.61,14952,No,Hetauda,Part-time Worker,Low
+52,71.5,1.63,14166,No,Hetauda,Intern,Medium
+36,50.6,1.67,28410,No,Itahari,Designer,Low
+55,73.5,1.71,13678,No,Butwal,Part-time Worker,Medium
+21,75.8,1.71,16416,No,Biratnagar,Student,Low
+25,80.4,1.7,19919,No,Itahari,Teacher Assistant,Low
+38,50.6,1.49,7256,No,Hetauda,Student,Low
+18,79.5,1.74,24063,No,Pokhara,Student,Low
+38,52.9,1.75,30018,No,Bhairahawa,Engineer,Low
+31,68.2,1.62,24084,No,Lalitpur,Engineer,Low
+40,48.4,1.58,10605,No,Pokhara,Student,Low
+52,72.2,1.61,27318,No,Hetauda,Sales Executive,Medium
+32,57.5,1.69,30241,No,Biratnagar,Software Developer,Low
+29,43.3,1.45,20225,No,Janakpur,Part-time Worker,Low
+19,48.8,1.56,15841,No,Lalitpur,Intern,Low
+49,64.3,1.71,15312,No,Bharatpur,Part-time Worker,Medium
+42,70.7,1.73,27793,No,Pokhara,Part-time Worker,Low
+24,80.7,1.67,10326,No,Tulsipur,Software Developer,Medium
+40,73.7,1.67,32001,No,Pokhara,Designer,Low
+57,92.1,1.77,24187,No,Pokhara,Intern,Low
+22,78.2,1.56,19234,No,Biratnagar,Sales Executive,Low
+60,40.0,1.63,10447,No,Kathmandu,Part-time Worker,Medium
+21,70.4,1.69,30385,No,Nepalgunj,Software Developer,Low
+19,74.4,1.72,9218,Yes,Itahari,Part-time Worker,Low
+39,58.6,1.59,33015,No,Tulsipur,Designer,Low
+62,69.7,1.64,9708,Yes,Dharan,Office Assistant,Medium
+25,43.9,1.45,17926,No,Pokhara,Part-time Worker,Low
+54,63.4,1.56,18712,Yes,Gorkha,Student,Medium
+35,70.0,1.69,10594,No,Kathmandu,Student,Low
+54,55.9,1.62,11193,No,Bharatpur,Student,Low
+46,69.5,1.57,11882,No,Butwal,Student,Medium
+38,63.5,1.66,14401,No,Gorkha,Teacher Assistant,Low
+25,75.3,1.69,21106,No,Lalitpur,Intern,Low
+22,99.8,1.86,25076,No,Kathmandu,Student,Low
+42,88.3,1.69,23696,No,Kathmandu,Student,Medium
+58,86.1,1.82,6765,No,Lalitpur,Student,Low
+52,52.1,1.45,27173,No,Kathmandu,Sales Executive,Low
+61,75.6,1.66,36868,No,Pokhara,Teacher Assistant,Medium
+40,62.6,1.64,16001,No,Bharatpur,Office Assistant,Low
+52,74.3,1.65,40182,No,Biratnagar,Software Developer,Low
+43,80.7,1.67,12771,No,Pokhara,Teacher Assistant,Low
+31,70.8,1.55,14163,No,Nepalgunj,Part-time Worker,Medium
+46,73.0,1.79,13081,No,Dhangadhi,Student,Low
+20,61.4,1.79,37201,No,Dharan,Sales Executive,Low
+58,83.3,1.7,21787,No,Biratnagar,Student,Medium
+19,67.6,1.71,29140,No,Pokhara,Teacher Assistant,Low
+53,63.3,1.57,22507,No,Biratnagar,Office Assistant,Low
+38,66.7,1.58,31459,No,Bharatpur,Engineer,Low
+32,44.5,1.65,23509,No,Butwal,Student,Low
+30,73.0,1.59,11348,No,Butwal,Part-time Worker,Low
+52,72.9,1.69,6634,No,Janakpur,Student,Low
+32,75.6,1.67,17566,No,Bhairahawa,Intern,Low
+28,70.8,1.53,27839,Yes,Tulsipur,Office Assistant,Medium
+33,63.9,1.55,23879,No,Lalitpur,Designer,Low
+39,69.2,1.77,10594,No,Itahari,Student,Low
+64,71.5,1.67,26596,No,Kathmandu,Sales Executive,Low
+22,61.6,1.78,12703,Yes,Hetauda,Part-time Worker,Low
+36,50.2,1.72,18008,Yes,Gorkha,Student,Medium
+24,40.0,1.45,18546,No,Dharan,Part-time Worker,Low
+23,69.9,1.62,14138,No,Janakpur,Intern,Low
+38,49.1,1.71,18344,No,Hetauda,Office Assistant,Low
+31,49.3,1.8,17959,Yes,Tulsipur,Student,Low
+39,63.5,1.57,17407,No,Kathmandu,Designer,Low
+21,55.3,1.68,8425,No,Biratnagar,Student,Low
+58,64.8,1.62,16842,No,Lalitpur,Office Assistant,Low
+58,71.8,1.74,42346,No,Dhangadhi,Software Developer,Low
+44,50.6,1.58,23907,No,Tulsipur,Teacher Assistant,Low
+49,69.5,1.63,22455,Yes,Bhairahawa,Intern,Medium
+38,76.8,1.62,22273,No,Dharan,Sales Executive,Medium
+44,49.2,1.53,18881,No,Pokhara,Sales Executive,Low
+52,66.8,1.66,13081,No,Nepalgunj,Office Assistant,Low
+44,66.2,1.54,17528,No,Pokhara,Teacher Assistant,Low
+30,48.8,1.57,23360,No,Gorkha,Teacher Assistant,Low
+24,56.9,1.47,16525,No,Hetauda,Teacher Assistant,Low
+53,53.7,1.5,22442,Yes,Bhairahawa,Intern,Medium
+46,61.1,1.68,17778,Yes,Itahari,Student,Low
+24,52.9,1.72,9354,No,Janakpur,Part-time Worker,Low
+47,69.1,1.64,10490,Yes,Kathmandu,Part-time Worker,Medium
+62,96.5,1.68,15982,No,Pokhara,Student,Medium
+50,52.0,1.67,30523,No,Bhairahawa,Engineer,Low
+44,67.2,1.6,28581,No,Kathmandu,Engineer,Low
+29,58.0,1.69,20414,No,Janakpur,Part-time Worker,Low
+33,48.6,1.51,17242,No,Lalitpur,Teacher Assistant,Low
+62,52.0,1.65,24303,No,Butwal,Software Developer,Low
+56,53.4,1.81,21665,No,Hetauda,Teacher Assistant,Low
+52,91.8,1.76,34144,No,Itahari,Software Developer,Medium
+52,69.1,1.72,16305,Yes,Bharatpur,Teacher Assistant,Medium
+23,72.5,1.59,14380,No,Bharatpur,Intern,Low
+55,120.0,1.87,28045,Yes,Kathmandu,Office Assistant,High
+44,57.6,1.74,14517,No,Dharan,Designer,Low
+21,61.9,1.66,13045,No,Pokhara,Student,Low
+45,61.0,1.65,21088,No,Dharan,Intern,Low
+63,91.1,1.78,21738,Yes,Kathmandu,Part-time Worker,Medium
+22,40.0,1.59,23349,No,Tulsipur,Sales Executive,Low
+44,70.8,1.7,41660,No,Biratnagar,Engineer,Low
+55,71.2,1.73,13940,No,Nepalgunj,Intern,Medium
+22,87.3,1.8,7172,No,Tulsipur,Student,Low
+42,46.5,1.62,21535,Yes,Kathmandu,Engineer,Low
+53,81.5,1.81,35157,Yes,Gorkha,Engineer,Medium
+49,83.7,1.79,31922,No,Butwal,Teacher Assistant,Low
+37,74.3,1.64,19888,No,Dhangadhi,Part-time Worker,Low
+50,60.6,1.63,31611,No,Dharan,Software Developer,Low
+22,72.2,1.72,23278,No,Lalitpur,Student,Low
+46,55.1,1.5,24715,No,Gorkha,Part-time Worker,Low
+31,59.0,1.66,39862,No,Lalitpur,Sales Executive,Low
+41,54.8,1.68,29717,No,Kathmandu,Designer,Low
+29,49.0,1.55,16953,No,Butwal,Student,Low
+53,72.7,1.61,20060,Yes,Kathmandu,Intern,Medium
+32,55.5,1.57,30389,No,Kathmandu,Engineer,Low
+36,68.8,1.69,15959,No,Itahari,Office Assistant,Low
+54,55.3,1.64,11511,No,Pokhara,Office Assistant,Low
+61,69.2,1.77,19052,No,Pokhara,Part-time Worker,Low
+32,48.4,1.57,18455,Yes,Kathmandu,Student,Low
+23,43.1,1.68,27744,No,Bhairahawa,Engineer,Low
+26,58.9,1.65,10676,Yes,Butwal,Student,Low
+56,69.2,1.73,16187,No,Dharan,Intern,Low
+45,77.0,1.86,21863,No,Gorkha,Intern,Low
+59,61.0,1.65,17593,No,Nepalgunj,Part-time Worker,Low
+61,51.4,1.49,16912,No,Kathmandu,Student,Low
+32,70.0,1.62,15753,No,Lalitpur,Student,Medium
+64,42.7,1.55,47285,Yes,Pokhara,Designer,Medium
+24,53.6,1.53,30168,No,Itahari,Engineer,Low
+48,78.1,1.65,12854,No,Janakpur,Student,Medium
+63,50.2,1.68,18320,No,Gorkha,Intern,Low
+31,80.1,1.82,6246,Yes,Gorkha,Student,Medium
+57,69.1,1.86,25464,Yes,Dhangadhi,Part-time Worker,Medium
+58,56.2,1.68,21777,No,Dharan,Intern,Low
+19,54.2,1.62,18332,No,Bhairahawa,Teacher Assistant,Low
+29,75.6,1.72,10704,No,Biratnagar,Student,Low
+22,51.3,1.64,16494,Yes,Butwal,Student,Low
+61,69.8,1.6,21826,No,Itahari,Sales Executive,Medium
+37,72.3,1.67,37007,No,Lalitpur,Software Developer,Low
+35,57.7,1.57,27230,No,Kathmandu,Office Assistant,Low
+61,52.4,1.48,18072,No,Pokhara,Student,Medium
+32,60.3,1.47,38070,No,Itahari,Software Developer,Low
+38,51.5,1.63,31297,No,Butwal,Software Developer,Low
+38,67.1,1.65,20654,No,Biratnagar,Intern,Low
+54,77.3,1.81,18736,No,Hetauda,Intern,Low
+56,66.6,1.7,10103,No,Nepalgunj,Part-time Worker,Low
+38,54.1,1.62,16152,Yes,Kathmandu,Student,Medium
+18,69.7,1.71,17878,No,Dhangadhi,Student,Low
+50,73.1,1.64,15934,No,Butwal,Office Assistant,Low
+41,61.1,1.69,30365,No,Butwal,Engineer,Low
+63,50.3,1.55,17364,No,Hetauda,Student,Low
+50,69.0,1.69,27319,No,Butwal,Engineer,Low
+59,55.3,1.66,18290,No,Dharan,Part-time Worker,Low
+47,50.2,1.6,15207,Yes,Dharan,Student,Low
+23,67.6,1.7,7759,No,Bharatpur,Student,Low
+39,72.7,1.51,22996,No,Kathmandu,Part-time Worker,Low
+31,63.6,1.61,9367,No,Janakpur,Student,Low
+63,40.0,1.55,46151,No,Lalitpur,Engineer,Low
+23,96.7,1.72,13907,No,Bharatpur,Intern,Medium
+63,63.3,1.61,23413,No,Hetauda,Engineer,Low
+21,83.0,1.65,22502,Yes,Janakpur,Student,Medium
+19,46.4,1.67,26154,No,Lalitpur,Sales Executive,Low
+62,71.6,1.6,16282,No,Pokhara,Student,Low
+27,72.3,1.71,7802,No,Itahari,Student,Low
+23,92.6,1.83,47857,No,Pokhara,Software Developer,Low
+58,76.8,1.59,20196,No,Lalitpur,Intern,Low
+41,96.6,1.8,20351,No,Butwal,Student,Medium
+48,57.0,1.59,22155,No,Biratnagar,Student,Low
+33,61.9,1.68,12949,No,Pokhara,Student,Low
+60,73.6,1.65,48516,No,Butwal,Engineer,Medium
+43,67.2,1.6,15710,No,Butwal,Teacher Assistant,Low
+37,77.1,1.66,17951,No,Itahari,Student,Low
+37,54.8,1.55,34844,Yes,Kathmandu,Teacher Assistant,Low
+61,76.6,1.59,29495,No,Dharan,Engineer,Medium
+51,64.3,1.69,18409,No,Tulsipur,Office Assistant,Low
+32,40.0,1.48,24083,No,Biratnagar,Student,Low
+57,70.9,1.65,16015,No,Kathmandu,Part-time Worker,Low
+38,54.7,1.66,18915,No,Bhairahawa,Office Assistant,Low
+18,63.2,1.74,15865,No,Pokhara,Student,Low
+58,71.1,1.88,5647,No,Tulsipur,Teacher Assistant,Low
+43,62.5,1.7,25298,Yes,Bharatpur,Designer,Low
+49,66.2,1.65,20665,No,Biratnagar,Student,Low
+30,44.2,1.51,23607,No,Bharatpur,Intern,Low
+55,62.6,1.67,27094,No,Tulsipur,Designer,Low
+20,69.8,1.77,26424,Yes,Biratnagar,Engineer,Low
+53,73.9,1.65,17320,No,Biratnagar,Intern,Medium
+28,60.4,1.56,27775,No,Dhangadhi,Engineer,Low
+19,98.1,1.77,18063,No,Lalitpur,Office Assistant,Medium
+24,62.7,1.61,9994,No,Lalitpur,Student,Low
+50,40.0,1.51,36303,No,Itahari,Software Developer,Medium
+60,69.2,1.65,14467,No,Nepalgunj,Intern,Low
+31,76.2,1.8,11235,No,Kathmandu,Intern,Low
+26,53.5,1.45,14510,No,Biratnagar,Student,Low
+37,63.2,1.68,7829,No,Biratnagar,Student,Low
+28,73.1,1.64,28248,No,Lalitpur,Software Developer,Low
+25,68.0,1.69,30864,No,Kathmandu,Sales Executive,Low
+40,59.9,1.59,21578,No,Butwal,Student,Low
+29,63.0,1.69,17788,No,Kathmandu,Part-time Worker,Low
+63,70.7,1.63,10297,No,Dharan,Part-time Worker,Low
+37,69.6,1.69,53500,No,Kathmandu,Software Developer,Low
+63,75.8,1.75,18828,No,Butwal,Part-time Worker,Medium
+23,56.0,1.68,8456,No,Bhairahawa,Student,Low
+58,65.9,1.6,8293,No,Dhangadhi,Part-time Worker,Low
+21,58.4,1.76,11627,No,Butwal,Student,Low
+33,76.7,1.65,23796,No,Biratnagar,Intern,Low
+64,91.7,1.74,7696,No,Butwal,Student,Medium
+48,46.7,1.59,18741,Yes,Lalitpur,Student,Medium
+50,76.5,1.64,14604,No,Biratnagar,Student,Medium
+41,72.6,1.6,25076,No,Butwal,Part-time Worker,Medium
+21,41.5,1.48,14112,No,Hetauda,Student,Low
+53,64.4,1.72,23516,No,Dharan,Engineer,Low
+49,46.9,1.59,9294,No,Dhangadhi,Student,Low
+30,55.8,1.76,12420,No,Butwal,Student,Low
+54,44.1,1.61,17100,No,Biratnagar,Part-time Worker,Low
+37,63.1,1.55,30398,No,Kathmandu,Software Developer,Low
+54,60.4,1.63,15127,Yes,Nepalgunj,Intern,Medium
+27,64.0,1.76,22257,No,Kathmandu,Student,Low
+47,57.9,1.56,17667,Yes,Nepalgunj,Intern,Low
+31,68.5,1.68,6907,No,Butwal,Intern,Low
+33,60.2,1.54,16636,Yes,Kathmandu,Student,Low
+40,73.8,1.64,16363,No,Bharatpur,Teacher Assistant,Low
+48,75.7,1.79,17510,No,Pokhara,Part-time Worker,Low
+49,50.7,1.49,10259,No,Butwal,Student,Low
+64,46.0,1.48,50471,No,Pokhara,Engineer,Medium
+60,61.4,1.75,9160,No,Tulsipur,Part-time Worker,Medium
+61,53.2,1.58,10174,No,Pokhara,Student,Low
+39,62.4,1.7,13977,No,Janakpur,Student,Low
+22,85.3,1.66,13420,No,Lalitpur,Intern,Low
+43,92.3,1.65,17992,No,Butwal,Teacher Assistant,Medium
+47,69.6,1.76,45815,No,Lalitpur,Software Developer,Low
+46,64.3,1.71,12602,Yes,Janakpur,Student,Medium
+50,40.3,1.69,14444,No,Pokhara,Student,Low
+26,48.9,1.56,17837,Yes,Kathmandu,Student,Low
+21,72.3,1.61,20331,No,Nepalgunj,Office Assistant,Low
+40,55.1,1.61,16748,Yes,Bharatpur,Student,Low
+29,77.8,1.73,12188,No,Biratnagar,Student,Low
+34,57.5,1.62,16404,No,Dharan,Teacher Assistant,Low
+64,61.1,1.65,21575,Yes,Bharatpur,Office Assistant,Medium
+32,42.4,1.66,14629,No,Kathmandu,Student,Low
+23,64.2,1.61,56384,No,Kathmandu,Software Developer,Low
+44,48.9,1.5,35765,No,Pokhara,Software Developer,Low
+55,63.3,1.64,22659,No,Bharatpur,Designer,Low
+18,61.8,1.65,30170,No,Pokhara,Office Assistant,Low
+19,70.8,1.63,13431,No,Hetauda,Student,Low
+42,63.1,1.71,22672,No,Nepalgunj,Sales Executive,Low
+46,58.3,1.67,17542,Yes,Nepalgunj,Part-time Worker,Medium
+35,71.5,1.68,22840,No,Lalitpur,Student,Low
+50,55.0,1.57,14612,No,Janakpur,Student,Low
+60,56.4,1.51,21865,No,Nepalgunj,Teacher Assistant,Low
+53,52.7,1.63,20844,No,Pokhara,Intern,Low
+45,59.7,1.57,16958,No,Hetauda,Intern,Low
+45,65.3,1.78,17538,No,Janakpur,Intern,Low
+52,67.0,1.74,6150,No,Pokhara,Student,Low
+63,61.0,1.46,45840,No,Butwal,Engineer,Medium
+26,54.3,1.6,24263,No,Itahari,Sales Executive,Low
+21,74.4,1.78,34341,No,Kathmandu,Engineer,Low
+39,83.4,1.79,19067,No,Dhangadhi,Office Assistant,Medium
+22,53.7,1.62,16440,No,Pokhara,Student,Low
+26,54.2,1.45,27998,No,Butwal,Software Developer,Low
+55,70.9,1.7,13032,No,Butwal,Software Developer,Low
+35,62.6,1.77,33956,Yes,Dharan,Software Developer,Low
+38,67.4,1.63,16288,No,Gorkha,Part-time Worker,Medium
+49,59.6,1.71,50064,No,Butwal,Software Developer,Low
+52,80.7,1.69,31671,Yes,Pokhara,Software Developer,Medium
+19,70.3,1.72,18964,Yes,Bharatpur,Office Assistant,Low
+51,76.6,1.56,47471,Yes,Bharatpur,Engineer,High
+38,61.7,1.67,33019,No,Pokhara,Engineer,Low
+54,84.2,1.73,24429,Yes,Nepalgunj,Software Developer,Medium
+38,46.3,1.55,39124,No,Pokhara,Software Developer,Low
+61,60.2,1.76,47614,No,Kathmandu,Sales Executive,Low
+39,57.7,1.52,16090,No,Butwal,Student,Low
+62,75.6,1.69,12803,Yes,Pokhara,Intern,Medium
+32,64.4,1.52,35281,Yes,Butwal,Software Developer,Low
+37,63.1,1.7,21738,No,Hetauda,Office Assistant,Low
+51,54.4,1.76,24231,No,Bhairahawa,Designer,Low
+24,74.6,1.75,39101,No,Kathmandu,Engineer,Low
+57,99.7,1.69,35305,Yes,Pokhara,Software Developer,High
+61,69.7,1.66,20273,No,Biratnagar,Part-time Worker,Low
+33,107.5,1.81,25118,No,Kathmandu,Student,Low
+25,68.3,1.51,8416,No,Dhangadhi,Student,Low
+52,71.5,1.6,12458,No,Bhairahawa,Student,High
+47,65.8,1.54,19117,Yes,Biratnagar,Sales Executive,Medium
+42,58.1,1.66,3063,No,Dharan,Student,Low
+31,50.3,1.6,15031,No,Lalitpur,Intern,Low
+50,52.4,1.64,30426,No,Butwal,Part-time Worker,Low
+22,73.6,1.52,21186,No,Nepalgunj,Teacher Assistant,Low
+20,65.0,1.69,5957,No,Dharan,Student,Low
+54,43.0,1.52,16877,No,Butwal,Student,Medium
+32,79.5,1.68,12022,No,Biratnagar,Student,Low
+20,61.8,1.71,24365,No,Lalitpur,Intern,Low
+51,61.8,1.68,41184,No,Dharan,Software Developer,Low
+22,73.5,1.63,44239,No,Pokhara,Software Developer,Low
+43,68.5,1.77,36397,Yes,Kathmandu,Teacher Assistant,Medium
+22,65.1,1.72,12655,No,Pokhara,Student,Low
+20,98.6,1.89,13860,No,Lalitpur,Student,Low
+20,65.0,1.64,15243,No,Butwal,Student,Low
+24,71.1,1.57,11010,No,Biratnagar,Student,Low
+54,45.2,1.45,32813,No,Gorkha,Engineer,Low
+31,73.9,1.77,7970,No,Janakpur,Student,Low
+26,46.5,1.58,22051,No,Biratnagar,Student,Low
+24,59.0,1.75,17702,No,Biratnagar,Intern,Low
+47,57.9,1.72,7957,Yes,Hetauda,Student,Medium
+18,81.2,1.78,11990,No,Kathmandu,Student,Low
+64,44.5,1.48,16088,No,Dhangadhi,Part-time Worker,Low
+51,75.5,1.73,48019,No,Hetauda,Software Developer,Low
+32,64.8,1.6,28096,No,Dharan,Part-time Worker,Low
+18,82.5,1.74,9915,No,Janakpur,Student,Low
+53,78.7,1.78,29372,No,Nepalgunj,Engineer,Low
+35,49.2,1.66,31491,No,Pokhara,Office Assistant,Low
+38,41.3,1.65,32111,No,Biratnagar,Designer,Low
+27,78.2,1.64,26959,No,Pokhara,Student,Low
+46,44.0,1.49,18994,No,Lalitpur,Student,Low
+56,82.3,1.72,23930,Yes,Bharatpur,Engineer,Medium
+22,42.8,1.57,31510,Yes,Butwal,Sales Executive,Low
+38,54.9,1.63,13830,No,Kathmandu,Student,Low
+24,65.7,1.51,23726,No,Bharatpur,Designer,Low
+58,65.6,1.63,24390,No,Kathmandu,Teacher Assistant,Low
+45,48.5,1.61,35867,No,Pokhara,Software Developer,Low
+54,74.5,1.67,15712,No,Kathmandu,Sales Executive,Low
+52,58.6,1.77,7655,No,Dharan,Intern,Low
+38,40.8,1.65,15485,No,Dhangadhi,Office Assistant,Low
+23,57.0,1.59,15106,No,Butwal,Student,Low
+63,63.0,1.56,20502,No,Bhairahawa,Designer,Medium
+47,74.4,1.68,12255,No,Tulsipur,Student,Low
+52,73.0,1.67,14978,No,Bharatpur,Student,Medium
+22,93.5,1.86,26753,Yes,Lalitpur,Teacher Assistant,Medium
+20,58.7,1.53,32751,No,Kathmandu,Designer,Low
+38,64.6,1.61,25887,Yes,Dharan,Engineer,Low
+63,68.5,1.72,37214,No,Bhairahawa,Software Developer,Low
+59,46.8,1.67,21264,No,Itahari,Student,Low
+22,44.7,1.64,15678,No,Gorkha,Office Assistant,Low
+57,48.7,1.74,31720,No,Itahari,Software Developer,Low
+60,60.9,1.58,14614,Yes,Lalitpur,Student,Medium
+35,57.7,1.71,20232,No,Bhairahawa,Designer,Low
+55,59.8,1.53,36760,Yes,Bhairahawa,Software Developer,Medium
+56,83.7,1.6,32123,No,Pokhara,Part-time Worker,Medium
+22,55.4,1.73,32578,No,Bharatpur,Engineer,Low
+39,48.2,1.71,8679,Yes,Gorkha,Student,Medium
+46,62.6,1.62,6174,No,Janakpur,Software Developer,Low
+18,47.1,1.68,12562,Yes,Bharatpur,Part-time Worker,Low
+35,52.1,1.71,20328,No,Kathmandu,Office Assistant,Low
+43,115.7,1.8,34743,No,Nepalgunj,Software Developer,High
+31,46.5,1.51,19057,No,Pokhara,Intern,Low
+47,71.2,1.66,23226,No,Kathmandu,Office Assistant,Low
+26,61.6,1.72,17601,Yes,Pokhara,Part-time Worker,Low
+29,53.9,1.51,13702,Yes,Kathmandu,Student,Low
+61,78.7,1.69,25847,No,Pokhara,Part-time Worker,Medium
+34,69.7,1.78,11817,No,Biratnagar,Student,Low
+35,64.2,1.63,27590,No,Dharan,Office Assistant,Low
+55,47.7,1.69,36176,Yes,Dharan,Sales Executive,Low
+43,66.8,1.63,15362,No,Biratnagar,Student,Low
+45,62.3,1.7,18298,No,Butwal,Student,Low
+22,57.6,1.66,48897,No,Kathmandu,Engineer,Low
+34,54.6,1.58,16296,No,Kathmandu,Student,Low
+18,72.5,1.76,26793,No,Pokhara,Student,Low
+57,84.7,1.78,20837,No,Tulsipur,Sales Executive,Low
+37,61.0,1.64,33794,No,Lalitpur,Engineer,Low
+50,48.6,1.46,11201,Yes,Hetauda,Student,Low
+51,63.0,1.73,18323,No,Kathmandu,Teacher Assistant,Low
+23,66.6,1.55,15426,No,Pokhara,Student,Low
+25,43.0,1.57,26777,No,Hetauda,Designer,Low
+53,88.9,1.71,10307,No,Butwal,Student,Low
+30,61.9,1.56,12307,No,Dharan,Student,Low
+35,64.3,1.6,13200,Yes,Pokhara,Student,Low
+61,79.6,1.74,40674,Yes,Dharan,Software Developer,Medium
+21,81.8,1.56,15783,No,Hetauda,Student,Low
+39,69.3,1.62,10687,No,Tulsipur,Student,Low
+35,55.5,1.69,15682,No,Butwal,Student,Low
+43,80.8,1.63,22878,No,Dhangadhi,Designer,Medium
+32,73.8,1.67,37490,No,Bhairahawa,Software Developer,Low
+32,69.7,1.7,47201,No,Butwal,Software Developer,Low
+46,50.0,1.53,4383,No,Gorkha,Part-time Worker,Low
+54,57.0,1.59,20170,No,Janakpur,Sales Executive,Medium
+42,45.8,1.55,31814,No,Kathmandu,Intern,Low
+46,40.0,1.58,22100,No,Lalitpur,Part-time Worker,Low
+41,70.3,1.7,9134,No,Biratnagar,Intern,Low
+51,64.1,1.57,35035,No,Dharan,Software Developer,Low
+24,54.6,1.69,41207,No,Hetauda,Software Developer,Low
+44,53.8,1.55,25633,Yes,Dharan,Engineer,Low
+42,57.0,1.52,9913,No,Pokhara,Student,Low
+57,79.1,1.51,13800,No,Pokhara,Student,High
+23,61.1,1.6,12527,No,Hetauda,Student,Low
+45,57.7,1.65,15637,No,Nepalgunj,Student,Low
+60,69.7,1.76,23816,Yes,Biratnagar,Part-time Worker,Medium
+49,51.6,1.83,34148,No,Kathmandu,Engineer,Low
+41,67.3,1.74,41773,No,Kathmandu,Software Developer,Medium
+48,81.4,1.73,32945,Yes,Itahari,Software Developer,Low
+54,54.8,1.55,36024,No,Pokhara,Teacher Assistant,Low
+25,59.6,1.71,43309,No,Kathmandu,Software Developer,Low
+57,65.9,1.85,10579,No,Bharatpur,Part-time Worker,Low
+49,48.7,1.71,12638,No,Pokhara,Student,Medium
+64,63.8,1.58,52583,No,Lalitpur,Engineer,Low
+54,40.0,1.54,21536,No,Itahari,Office Assistant,Low
+29,69.2,1.6,18513,No,Tulsipur,Intern,Low
+25,73.9,1.68,22928,No,Pokhara,Part-time Worker,Low
+54,67.8,1.66,37145,No,Pokhara,Designer,Low
+24,80.4,1.74,35938,Yes,Pokhara,Designer,Low
+43,52.2,1.69,34284,No,Butwal,Software Developer,Low
+20,90.8,1.71,13697,No,Janakpur,Student,Low
+62,69.4,1.68,19040,Yes,Kathmandu,Part-time Worker,Medium
+30,61.1,1.72,23026,No,Pokhara,Part-time Worker,Low
+59,68.9,1.68,19391,No,Pokhara,Part-time Worker,Low
+62,73.6,1.72,9556,No,Dhangadhi,Student,Low
+30,50.9,1.61,8193,No,Lalitpur,Student,Low
+55,58.6,1.66,25422,No,Kathmandu,Student,Medium
+46,82.4,1.7,30188,No,Bhairahawa,Engineer,Low
+40,57.2,1.73,15048,No,Butwal,Student,Low
+55,73.7,1.67,9245,No,Biratnagar,Student,Medium
+62,40.0,1.61,24318,No,Pokhara,Student,Low
+20,66.3,1.68,11487,No,Nepalgunj,Student,Low
+59,48.6,1.57,21481,No,Pokhara,Student,Low
+30,78.4,1.65,19806,No,Nepalgunj,Student,Low
+37,71.3,1.65,24586,No,Butwal,Teacher Assistant,Low
+45,41.4,1.45,18766,Yes,Dhangadhi,Intern,Medium
+53,61.5,1.62,30036,No,Dhangadhi,Sales Executive,Medium
+48,69.8,1.74,17548,Yes,Lalitpur,Teacher Assistant,Low
+46,66.5,1.64,20316,No,Biratnagar,Intern,Low
+57,57.8,1.6,13568,No,Pokhara,Student,Low
+63,95.2,1.81,52483,No,Kathmandu,Software Developer,High
+33,62.6,1.49,20274,No,Biratnagar,Student,Medium
+31,73.7,1.6,33360,No,Pokhara,Intern,Low
+27,56.5,1.45,9649,No,Itahari,Part-time Worker,Low
+39,59.7,1.64,37657,No,Kathmandu,Software Developer,Low
+49,55.7,1.56,22376,No,Nepalgunj,Software Developer,Low
+39,57.5,1.53,15694,No,Dhangadhi,Student,Low
+45,44.0,1.58,14237,No,Dharan,Intern,Low
+30,65.9,1.71,15043,No,Lalitpur,Student,Low
+29,74.2,1.59,24099,No,Biratnagar,Office Assistant,Low
+48,69.1,1.57,24446,No,Biratnagar,Teacher Assistant,Low
+28,76.2,1.7,20192,No,Gorkha,Student,Low
+41,63.3,1.62,18730,No,Tulsipur,Software Developer,Low
+41,56.7,1.66,1500,Yes,Kathmandu,Student,Low
+37,55.0,1.81,18952,No,Dhangadhi,Part-time Worker,Low
+32,71.3,1.72,47814,No,Lalitpur,Engineer,Medium
+23,63.4,1.61,22935,No,Kathmandu,Office Assistant,Low
+22,74.1,1.53,17567,No,Pokhara,Student,Medium
+54,72.7,1.61,11570,No,Itahari,Student,Medium
+24,78.7,1.63,19429,No,Biratnagar,Student,Low
+64,86.2,1.78,11036,Yes,Bhairahawa,Student,Low
+52,76.3,1.58,14484,No,Tulsipur,Student,Low
+47,60.3,1.77,13819,No,Pokhara,Student,Low
+43,80.4,1.74,11011,No,Janakpur,Student,Low
+29,80.9,1.71,19580,No,Lalitpur,Teacher Assistant,Low
+32,95.9,1.7,14948,No,Biratnagar,Student,Medium
+26,47.5,1.63,45074,No,Kathmandu,Engineer,Low
+35,76.1,1.59,20585,No,Hetauda,Teacher Assistant,Low
+31,40.0,1.49,22878,Yes,Pokhara,Office Assistant,Medium
+22,56.0,1.67,21748,No,Itahari,Student,Low
+64,75.9,1.71,16801,No,Dharan,Software Developer,Medium
+39,99.6,1.73,29588,No,Pokhara,Student,Low
+46,50.7,1.61,16538,No,Pokhara,Student,Low
+47,61.1,1.59,15521,No,Tulsipur,Student,Low
+23,55.2,1.53,17631,No,Hetauda,Part-time Worker,Low
+54,60.0,1.53,10185,Yes,Dhangadhi,Intern,Low
+24,58.9,1.62,33070,Yes,Biratnagar,Engineer,Low
+58,68.0,1.67,16229,No,Dhangadhi,Student,Low
+42,44.9,1.48,26774,No,Itahari,Office Assistant,Low
+35,62.4,1.74,18989,Yes,Butwal,Intern,Low
+32,74.6,1.64,14578,No,Butwal,Student,Low
+52,74.8,1.47,18984,No,Bhairahawa,Intern,Medium
+44,65.8,1.67,39047,No,Itahari,Software Developer,Low
+27,56.7,1.65,16915,No,Kathmandu,Intern,Low
+27,57.5,1.53,22546,No,Nepalgunj,Office Assistant,Low
+24,58.5,1.45,26424,No,Biratnagar,Intern,Low
+37,73.1,1.65,28074,No,Pokhara,Intern,Medium
+32,74.2,1.7,35193,No,Itahari,Software Developer,Low
+57,60.7,1.73,30759,Yes,Dhangadhi,Software Developer,Medium
+43,40.5,1.6,55661,No,Butwal,Software Developer,Low
+52,65.9,1.58,23261,Yes,Kathmandu,Intern,Medium
+25,43.7,1.45,14277,No,Kathmandu,Student,Low
+49,89.8,1.76,19433,Yes,Gorkha,Part-time Worker,Medium
+50,81.8,1.76,20277,No,Kathmandu,Part-time Worker,Medium
+41,64.8,1.73,25969,No,Gorkha,Teacher Assistant,Low
+42,71.6,1.73,20451,No,Itahari,Teacher Assistant,Low
+26,60.3,1.68,21233,No,Hetauda,Student,Low
+54,71.3,1.57,39517,No,Butwal,Software Developer,Low
+31,55.7,1.62,21348,No,Bharatpur,Office Assistant,Low
+63,67.9,1.69,59886,Yes,Kathmandu,Engineer,Medium
+23,71.4,1.78,31747,No,Lalitpur,Software Developer,Low
+55,51.6,1.55,27651,No,Biratnagar,Teacher Assistant,Low
